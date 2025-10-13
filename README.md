@@ -1,14 +1,14 @@
 ## Hi 👋, I'm a Sagar Hande
  I am a professional Cybersecurity Systems Engineer/Developer working with Sailpoint, Windows, Linux based services.
 
-📫 How to reach me **sweinc.4u@gmail.com**
+📫 How to reach me **sweinc.4u@gmail.com/scriptingwithease@gmail.com**
 
 
 ## Website
 - [Scripting with Ease](https://scriptingwithease.web.app)
 
 ## Connect with me
-- [Youtube](https://www.youtube.com/@scriptingwithease)
+- [Youtube](https://www.youtube.com/@scripting_with_ease)
 - [LinkedIn](linkedin.com/in/sagar-hande-47416a86)
 - [Playstore](https://play.google.com/store/apps/developer?id=Sagar+V+Hande&hl=en)
 - [Twitter](x.com/EaseScript35566)
